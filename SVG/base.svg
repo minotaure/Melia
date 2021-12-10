@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1195pt"
+   height="671pt"
+   viewBox="0 0 1195 671"
+   version="1.1"
+   id="svg20"
+   sodipodi:docname="base.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="0.63040238"
+     inkscape:cx="796.66667"
+     inkscape:cy="447.33333"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20" />
+  <title
+     id="title2">base</title>
+  <desc
+     id="desc4">
+Creator: GL2PS 1.4.3, (C) 1999-2020 C. Geuzaine
+For: Gmsh
+CreationDate: Tue Nov 30 18:19:44 2021
+</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="g18"
+     style="stroke:#ff0000;stroke-opacity:1"
+     transform="matrix(0.41279603,0,0,0.41279603,149.23965,55.700524)">
+    <polyline
+       fill="none"
+       stroke="#0000ff"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       points="255.153,575.143 255.153,95.8572 939.847,95.8572 939.847,575.143 255.153,575.143"
+       id="polyline8"
+       style="stroke:#ff0000;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       stroke="#0000ff"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       points="275.694,403.969 275.694,267.031 309.929,267.031 309.929,403.969 275.694,403.969"
+       id="polyline10"
+       style="stroke:#ff0000;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       stroke="#0000ff"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       points="885.071,403.969 885.071,267.031 919.306,267.031 919.306,403.969 885.071,403.969"
+       id="polyline12"
+       style="stroke:#ff0000;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       stroke="#0000ff"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       points="344.163,369.735 344.163,301.265 378.398,301.265 378.398,369.735 344.163,369.735"
+       id="polyline14"
+       style="stroke:#ff0000;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       stroke="#0000ff"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       points="816.602,369.735 816.602,301.265 850.837,301.265 850.837,369.735 816.602,369.735"
+       id="polyline16"
+       style="stroke:#ff0000;stroke-opacity:1" />
+  </g>
+</svg>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1195pt"
+   height="671pt"
+   version="1.1"
+   viewBox="0 0 1195 671"
+   id="svg14"
+   sodipodi:docname="base.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="0.63040238"
+     inkscape:cx="796.66667"
+     inkscape:cy="320.43026"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title4">base</title>
+  <desc
+     id="desc6">Creator: GL2PS 1.4.3, (C) 1999-2020 C. Geuzaine
+For: Gmsh
+CreationDate: Sat Nov 27 15:31:39 2021</desc>
+  <polyline
+     points="190.85 539.15 911.17 539.15 911.76 539.14 912.34 539.11 912.93 539.05 913.51 538.97 914.09 538.86 914.67 538.74 915.24 538.59 915.8 538.42 916.36 538.22 916.91 538.01 917.45 537.77 917.98 537.52 918.5 537.24 919.01 536.94 919.5 536.62 919.99 536.29 920.46 535.93 920.91 535.56 921.35 535.17 921.78 534.76 922.18 534.33 922.58 533.89 922.95 533.44 923.31 532.97 923.64 532.48 923.96 531.99 924.26 531.48 924.54 530.96 924.79 530.43 925.03 529.89 925.24 529.34 925.44 528.78 925.61 528.22 925.76 527.65 925.88 527.07 925.99 526.49 926.07 525.91 926.13 525.32 926.16 524.74 926.17 524.15 926.17 28.928 926.16 28.339 926.13 27.751 926.07 27.165 925.99 26.581 925.88 26.001 925.76 25.425 925.61 24.855 925.44 24.291 925.24 23.734 925.03 23.186 924.79 22.646 924.54 22.116 924.26 21.596 923.96 21.088 923.64 20.591 923.31 20.108 922.95 19.638 922.58 19.182 922.18 18.742 921.78 18.317 921.35 17.909 920.91 17.517 920.46 17.144 919.99 16.788 919.5 16.451 919.01 16.133 918.5 15.835 917.98 15.557 917.45 15.3 916.91 15.064 916.36 14.849 915.8 14.656 915.24 14.485 914.67 14.336 914.09 14.21 913.51 14.107 912.93 14.026 912.34 13.968 911.76 13.933 911.17 13.922 190.85 13.922 190.26 13.933 189.67 13.968 189.08 14.026 188.5 14.107 187.92 14.21 187.35 14.336 186.78 14.485 186.21 14.656 185.66 14.849 185.11 15.064 184.57 15.3 184.04 15.557 183.52 15.835 183.01 16.133 182.51 16.451 182.03 16.788 181.56 17.144 181.1 17.517 180.66 17.909 180.24 18.317 179.83 18.742 179.44 19.182 179.06 19.638 178.71 20.108 178.37 20.591 178.05 21.088 177.76 21.596 177.48 22.116 177.22 22.646 176.98 23.186 176.77 23.734 176.58 24.291 176.41 24.855 176.26 25.425 176.13 26.001 176.03 26.581 175.95 27.165 175.89 27.751 175.85 28.339 175.84 28.928 175.84 524.15 175.85 524.74 175.89 525.32 175.95 525.91 176.03 526.49 176.13 527.07 176.26 527.65 176.41 528.22 176.58 528.78 176.77 529.34 176.98 529.89 177.22 530.43 177.48 530.96 177.76 531.48 178.05 531.99 178.37 532.48 178.71 532.97 179.06 533.44 179.44 533.89 179.83 534.33 180.24 534.76 180.66 535.17 181.1 535.56 181.56 535.93 182.03 536.29 182.51 536.62 183.01 536.94 183.52 537.24 184.04 537.52 184.57 537.77 185.11 538.01 185.66 538.22 186.21 538.42 186.78 538.59 187.35 538.74 187.92 538.86 188.5 538.97 189.08 539.05 189.67 539.11 190.26 539.14 190.85 539.15"
+     fill="none"
+     stroke="#00f"
+     stroke-width="2"
+     id="polyline8"
+     style="stroke:#ff0000;stroke-width:0.566929;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(0.37750129,0,0,0.37750129,217.19172,8.4899708)" />
+  <polyline
+     points="198.35 351.57 235.87 351.57 235.87 201.5 198.35 201.5 198.35 351.57"
+     fill="none"
+     stroke="#00f"
+     stroke-width="2"
+     id="polyline10"
+     style="stroke:#ff0000;stroke-width:0.566929;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(0.37750129,0,0,0.37750129,217.19172,8.4899708)" />
+  <polyline
+     points="866.15 351.57 903.66 351.57 903.66 201.5 866.15 201.5 866.15 351.57"
+     fill="none"
+     stroke="#00f"
+     stroke-width="2"
+     id="polyline12"
+     style="stroke:#ff0000;stroke-width:0.566929;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(0.37750129,0,0,0.37750129,217.19172,8.4899708)" />
+</svg>
