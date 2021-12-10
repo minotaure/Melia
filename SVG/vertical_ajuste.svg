@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1195pt"
+   height="671pt"
+   viewBox="0 0 1195 671"
+   version="1.1"
+   id="svg884"
+   sodipodi:docname="vertical_ajuste.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata888">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     id="namedview886"
+     showgrid="false"
+     inkscape:zoom="0.63040238"
+     inkscape:cx="796.66667"
+     inkscape:cy="447.33333"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg884" />
+  <title
+     id="title872">vertical_ajuste</title>
+  <desc
+     id="desc874">
+Creator: GL2PS 1.4.3, (C) 1999-2020 C. Geuzaine
+For: Gmsh
+CreationDate: Tue Dec 07 18:29:11 2021
+</desc>
+  <defs
+     id="defs876" />
+  <g
+     id="g882"
+     transform="matrix(0.80328882,0,0,0.80328882,91.829498,13.111646)"
+     style="stroke:#ff0000;stroke-opacity:1">
+    <polyline
+       fill="none"
+       stroke="#0000ff"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       points="467.824,582.187 467.824,92.1559 555.33,92.1559 555.33,67.6543 625.334,67.6543 625.334,92.1559 712.84,92.1559 712.84,582.187 625.334,582.187 625.334,606.689 555.33,606.689 555.33,582.187 467.824,582.187"
+       id="polyline878"
+       style="stroke:#ff0000;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       stroke="#0000ff"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       points="555.33,345.922 555.33,330.171 625.334,330.171 625.334,345.922 555.33,345.922"
+       id="polyline880"
+       style="stroke:#ff0000;stroke-opacity:1" />
+  </g>
+</svg>
